@@ -1,0 +1,1 @@
+- OpenSL is native within in Android devices.
